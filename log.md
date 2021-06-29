@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: 6/28/21 
+### Day 0: 6/28/21 
 
 
 **Today's Progress**: Started by doings some exercises with parallax scrolling and lazy loading, that I haven't gotten the chance to actually make make from scratch.
