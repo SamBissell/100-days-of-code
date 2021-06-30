@@ -14,3 +14,10 @@
 
 **Thoughts:** I always feel like I should work on something like learning React or something practical, but I sometimes I drift towards doing something like this. I'd like to make a simple game some day, and honestly it doesn't seem that hard. Just add pretty sprites, animation, collision detection and a scoring system.
 **Link to work:** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/walker
+
+Day 2: 6/30/21
+Today's Progress: DId Angela Yu's Node.js and Express.js with Node.js modules.
+
+Thoughts: Feels great to be digging down beyond the front end. So much of what we do online is driven by the data and content stored somewhere, for me it's not enough to just know how to display it, I want to find, manage and edit it. 
+
+**Link to work:** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/intro-to-node, 
