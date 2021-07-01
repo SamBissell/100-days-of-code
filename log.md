@@ -22,3 +22,11 @@
 **Thoughts:** Feels great to be digging down beyond the front end. So much of what we do online is driven by the data and content stored somewhere, for me it's not enough to just know how to display it, I want to find, manage and edit it. 
 
 **Link to work:** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/intro-to-node, 
+
+### Day 3: 7/1/21
+
+**Today's Progress** BMI calculator and API material from Angela Yu's full-stack course.
+
+**Thoughts:** Feels good being able to get and post on a server. Feeling unshackled from the front end.
+
+**Link to work:** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/calculator
