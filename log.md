@@ -29,4 +29,12 @@
 
 **Thoughts:** Feels good being able to get and post on a server. Feeling unshackled from the front end.
 
+
+### Day 4: 7/2/21
+
+**Today's Progress** Rendered OpenWeatherMaps data using express.
+
+**Thoughts:** I've done somehting much like this all in the front end, but it's nice to do this in express, it's much cleaner having all the nuts and bolts squirreled away behind the currtain of the server.
+
+
 **Link to work:** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/calculator
