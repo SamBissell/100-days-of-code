@@ -44,3 +44,12 @@
 **Thoughts:** definitely have to go over get and post more, still not second nature.
 
 **Link to Work** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/newsletter
+
+### Day 6: 7/4/21
+
+**Today's Progress** Deployed server to heroku, app is a newsletter signup using mailchimp api.
+
+**Thoughts:** couldn't quite figure out how to get success and failure pages to load after form submission. 
+Tomorrow I'm going to have to go over the content from the last few days to make sure it's solidified, it's still all learning by wrote.
+
+**Link to Work** https://lovely-kobuk-valley-86599.herokuapp.com/
