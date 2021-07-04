@@ -29,6 +29,7 @@
 
 **Thoughts:** Feels good being able to get and post on a server. Feeling unshackled from the front end.
 
+**Link to work:** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/calculator
 
 ### Day 4: 7/2/21
 
@@ -36,5 +37,10 @@
 
 **Thoughts:** I've done somehting much like this all in the front end, but it's nice to do this in express, it's much cleaner having all the nuts and bolts squirreled away behind the currtain of the server.
 
+### Day 5: 7/3/21
 
-**Link to work:** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/calculator
+**Today's Progress** More express, post information from forms.
+
+**Thoughts:** definitely have to go over get and post more, still not second nature.
+
+**Link to Work** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/newsletter
