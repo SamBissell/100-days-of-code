@@ -54,9 +54,15 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 
 **Link to Work** https://lovely-kobuk-valley-86599.herokuapp.com/
 
-### Day 6: 7/4/21
+### Day 6: 7/5/21
 
 **Today's Progress** Reviewed express, moved on to EJS section in Angela Yu's Fullstack course
 
 **Thoughts:** I feel like I'm at a point where I'm picking stuff up really quickly. Also feel like I'm really confortable with the command line, which I wasn't only 3 months ago.
+
+### Day 7: 7/6/21
+
+**Today's Progress** More beginner EJS stuff
+**Thoughts:** feeling good
+
 
