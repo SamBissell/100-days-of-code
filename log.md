@@ -64,5 +64,14 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 
 **Today's Progress** More beginner EJS stuff
 **Thoughts:** feeling good
+**Link to Work** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/todolist
 
+
+### Day 8: 7/7/21
+
+**Today's Progress** todo app using express and ejs, started learning about databases.
+
+**Thoughts:** need to do a full project using ejs, express, but want to wait until I have databases so i can fully integrate that too. 
+
+**Link to Work** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/todolist
 
