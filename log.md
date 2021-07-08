@@ -75,3 +75,9 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 
 **Link to Work** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/todolist
 
+### Day 9: 7/8/21
+
+**Today's Progress** Basics of SQL and MOngo DB
+
+**Thoughts:** Seems simple enough, wonder if managing lots of data without a GUI will be challenging.
+
