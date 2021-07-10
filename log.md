@@ -81,3 +81,9 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 
 **Thoughts:** Seems simple enough, wonder if managing lots of data without a GUI will be challenging.
 
+
+### Day 10: 7/9/21
+
+**Today's Progress** finshed CRUD in mongodb, started exploring mongoose
+
+**Thoughts:** none really, just want to get this into the brain so that I can use it.
