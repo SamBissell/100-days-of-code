@@ -87,3 +87,9 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 **Today's Progress** finshed CRUD in mongodb, started exploring mongoose
 
 **Thoughts:** none really, just want to get this into the brain so that I can use it.
+
+
+### Day 11: 7/10/21
+
+**Today's Progress** mongoose
+**Thoughts:** mongoose makes mongo much easier. Finding the steady rhythm of 100 days of code challenge to be very productive.
