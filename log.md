@@ -93,3 +93,8 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 
 **Today's Progress** mongoose
 **Thoughts:** mongoose makes mongo much easier. Finding the steady rhythm of 100 days of code challenge to be very productive.
+
+### Day 12: 7/11/21
+
+**Today's Progress** using mongo in the previous todolist app
+**Thoughts:** low energy today
