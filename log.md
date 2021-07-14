@@ -109,3 +109,8 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 
 **Today's Progress** More todo lsit work
 **Thoughts:** frustration with express, kind of not following 100%. Have to go back and try it out again on something else small.
+
+### Day 15: 7/14/21
+
+**Today's Progress** Trying to connect to MangoDB Atlas, realizing that: 1.)  mongo v3.6 and under not supported by atlas 2.) mongo v4.0 and up not compatible with osX 10.10 and under. 3.) mid-2014 macbook pro unable to run osX 10.11. 
+**Thoughts:** this is some real life probalem solving, will have to do more research tomorrow.
