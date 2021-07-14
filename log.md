@@ -98,3 +98,14 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 
 **Today's Progress** using mongo in the previous todolist app
 **Thoughts:** low energy today
+
+
+### Day 13: 7/12/21
+
+**Today's Progress** more todo list work
+**Thoughts:** reach ing that point with express where I have to slow down and review stuff, I keep loosing the thread and have to go back to check and clarify stuff.
+
+### Day 14: 7/13/21
+
+**Today's Progress** More todo lsit work
+**Thoughts:** frustration with express, kind of not following 100%. Have to go back and try it out again on something else small.
