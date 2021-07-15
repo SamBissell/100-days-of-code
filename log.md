@@ -114,3 +114,8 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 
 **Today's Progress** Trying to connect to MangoDB Atlas, realizing that: 1.)  mongo v3.6 and under not supported by atlas 2.) mongo v4.0 and up not compatible with osX 10.10 and under. 3.) mid-2014 macbook pro unable to run osX 10.11. 
 **Thoughts:** this is some real life probalem solving, will have to do more research tomorrow.
+
+### Day 16: 7/15/21
+
+**Today's Progress** Upgraded IOS and Mongo in hopes it would fix the SSL error when onnecting to Atlas, didn't work. Not a lot online to help with the issue, loosk like I need to upgrade iOS again? started Express/ejs project from scratch, rough going, important to reinforce the basics until they're habit.
+**Thoughts:** got frustrated early, stepped away and switched to express.
