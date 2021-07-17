@@ -119,3 +119,8 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 
 **Today's Progress** Upgraded IOS and Mongo in hopes it would fix the SSL error when onnecting to Atlas, didn't work. Not a lot online to help with the issue, loosk like I need to upgrade iOS again? started Express/ejs project from scratch, rough going, important to reinforce the basics until they're habit.
 **Thoughts:** got frustrated early, stepped away and switched to express.
+
+### Day 17: 7/16/21
+
+**Today's Progress** Read up on express and ejs
+**Thoughts:** trying to get these new patterns down and how vanilla js fits into them.
