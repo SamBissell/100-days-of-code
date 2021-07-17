@@ -124,3 +124,9 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 
 **Today's Progress** Read up on express and ejs
 **Thoughts:** trying to get these new patterns down and how vanilla js fits into them.
+
+
+### Day 18: 7/17/21
+
+**Today's Progress** succesfully upgraded and connected to atlas. Deployed todolist to heroku. Getting comfortable making commits through the command line.
+**Thoughts:** 
