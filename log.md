@@ -54,20 +54,20 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 
 **Link to Work** https://lovely-kobuk-valley-86599.herokuapp.com/
 
-### Day 6: 7/5/21
+### Day 7: 7/5/21
 
 **Today's Progress** Reviewed express, moved on to EJS section in Angela Yu's Fullstack course
 
 **Thoughts:** I feel like I'm at a point where I'm picking stuff up really quickly. Also feel like I'm really confortable with the command line, which I wasn't only 3 months ago.
 
-### Day 7: 7/6/21
+### Day 8: 7/6/21
 
 **Today's Progress** More beginner EJS stuff
 **Thoughts:** feeling good
 **Link to Work** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/todolist
 
 
-### Day 8: 7/7/21
+### Day 9: 7/7/21
 
 **Today's Progress** todo app using express and ejs, started learning about databases.
 
@@ -75,64 +75,64 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 
 **Link to Work** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/todolist
 
-### Day 9: 7/8/21
+### Day 10: 7/8/21
 
 **Today's Progress** Basics of SQL and MOngo DB
 
 **Thoughts:** Seems simple enough, wonder if managing lots of data without a GUI will be challenging.
 
 
-### Day 10: 7/9/21
+### Day 11: 7/9/21
 
 **Today's Progress** finshed CRUD in mongodb, started exploring mongoose
 
 **Thoughts:** none really, just want to get this into the brain so that I can use it.
 
 
-### Day 11: 7/10/21
+### Day 12: 7/10/21
 
 **Today's Progress** mongoose
 **Thoughts:** mongoose makes mongo much easier. Finding the steady rhythm of 100 days of code challenge to be very productive.
 
-### Day 12: 7/11/21
+### Day 13: 7/11/21
 
 **Today's Progress** using mongo in the previous todolist app
 **Thoughts:** low energy today
 
 
-### Day 13: 7/12/21
+### Day 14: 7/12/21
 
 **Today's Progress** more todo list work
 **Thoughts:** reach ing that point with express where I have to slow down and review stuff, I keep loosing the thread and have to go back to check and clarify stuff.
 
-### Day 14: 7/13/21
+### Day 15: 7/13/21
 
 **Today's Progress** More todo lsit work
 **Thoughts:** frustration with express, kind of not following 100%. Have to go back and try it out again on something else small.
 
-### Day 15: 7/14/21
+### Day 16: 7/14/21
 
 **Today's Progress** Trying to connect to MangoDB Atlas, realizing that: 1.)  mongo v3.6 and under not supported by atlas 2.) mongo v4.0 and up not compatible with osX 10.10 and under. 3.) mid-2014 macbook pro unable to run osX 10.11. 
 **Thoughts:** this is some real life probalem solving, will have to do more research tomorrow.
 
-### Day 16: 7/15/21
+### Day 17: 7/15/21
 
 **Today's Progress** Upgraded IOS and Mongo in hopes it would fix the SSL error when onnecting to Atlas, didn't work. Not a lot online to help with the issue, loosk like I need to upgrade iOS again? started Express/ejs project from scratch, rough going, important to reinforce the basics until they're habit.
 **Thoughts:** got frustrated early, stepped away and switched to express.
 
-### Day 17: 7/16/21
+### Day 18: 7/16/21
 
 **Today's Progress** Read up on express and ejs
 **Thoughts:** trying to get these new patterns down and how vanilla js fits into them.
 
 
-### Day 18: 7/17/21
+### Day 19: 7/17/21
 
 **Today's Progress** succesfully upgraded and connected to atlas. Deployed todolist to heroku. Getting comfortable making commits through the command line.
 **Thoughts:** 
 
 
-### Day 19: 7/19/21
+### Day 20: 7/19/21
 
 **Today's Progress** Worked on a weather app using express, get a '400 nothing to geocode' error.
 **Thoughts:** just figuring things out. Express starting to make more sense, but still tough. 
