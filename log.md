@@ -130,3 +130,11 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 
 **Today's Progress** succesfully upgraded and connected to atlas. Deployed todolist to heroku. Getting comfortable making commits through the command line.
 **Thoughts:** 
+
+
+### Day 19: 7/19/21
+
+**Today's Progress** Worked on a weather app using express, get a '400 nothing to geocode' error.
+**Thoughts:** just figuring things out. Express starting to make more sense, but still tough. 
+Files: see Express-Weather repo
+
