@@ -138,3 +138,9 @@ Tomorrow I'm going to have to go over the content from the last few days to make
 **Thoughts:** just figuring things out. Express starting to make more sense, but still tough. 
 Files: see Express-Weather repo
 
+### Day 21: 7/20/21
+
+**Today's Progress** fixed goecoding error, got call to work, minor styling. Tried to add toggle between Far/Celsius, nooed to work on that tomorrow, animation while fetching data and of elements when loaded. 
+**Thoughts:** Feel slike progress. 
+Files: see Express-Weather repo
+
