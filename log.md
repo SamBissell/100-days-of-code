@@ -144,3 +144,9 @@ Files: see Express-Weather repo
 **Thoughts:** Feel slike progress. 
 Files: see Express-Weather repo
 
+### Day 22: 7/21/21
+
+**Today's Progress** trying to figure out how to get two different form buttons to submit separately, wrestling with event emitters, totally unclear
+**Thoughts:** slow going, rough.
+
+
