@@ -149,4 +149,9 @@ Files: see Express-Weather repo
 **Today's Progress** trying to figure out how to get two different form buttons to submit separately, wrestling with event emitters, totally unclear
 **Thoughts:** slow going, rough.
 
+### Day 23: 7/22/21
+
+**Today's Progress**redid styling on weather app
+**Thoughts:** none
+
 
