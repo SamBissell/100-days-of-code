@@ -154,4 +154,9 @@ Files: see Express-Weather repo
 **Today's Progress**redid styling on weather app
 **Thoughts:** none
 
+### Day 24: 7/23/21
+
+**Today's Progress**Started Angela Yu's React tutorial, figured i'd get my front end skills kosher before i tangle with backend any more.
+**Thoughts:** definitely could skip ahead but I wan't to go with her flow and see how she lays everything down.
+
 
