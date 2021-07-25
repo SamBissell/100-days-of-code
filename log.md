@@ -164,3 +164,9 @@ Files: see Express-Weather repo
 **Today's Progress**more JSX code from tutorials.
 **Thoughts:** Interesting how things make more sense when you start at the beginning.
 
+
+### Day 26: 7/25/21
+
+**Today's Progress**more inline styling in JSX.
+**Thoughts:** things didnt come 100% smoothly, but pretty intuitive all said and done. 
+
