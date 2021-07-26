@@ -170,3 +170,9 @@ Files: see Express-Weather repo
 **Today's Progress**more inline styling in JSX.
 **Thoughts:** things didnt come 100% smoothly, but pretty intuitive all said and done. 
 
+
+### Day 27: 7/26/21
+
+**Today's Progress**React components.
+**Thoughts:** React has lots of dependencies and can have lots of imported components. It's definitely way more orderly than having one huge file.
+
