@@ -176,3 +176,9 @@ Files: see Express-Weather repo
 **Today's Progress**React components.
 **Thoughts:** React has lots of dependencies and can have lots of imported components. It's definitely way more orderly than having one huge file.
 
+### Day 28: 7/27/21
+
+**Today's Progress**Made a page with react components
+**Thoughts:** This definitely seems to be sticking now, idk why you wouldn't make a website this way.
+**Link** https://github.com/SamBissell/keeper-app
+
