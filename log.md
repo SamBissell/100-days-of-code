@@ -182,3 +182,10 @@ Files: see Express-Weather repo
 **Thoughts:** This definitely seems to be sticking now, idk why you wouldn't make a website this way.
 **Link** https://github.com/SamBissell/keeper-app
 
+### Day 29: 7/28/21
+
+**Today's Progress** React Props
+**Thoughts:** yup, kind of had a stick a sec trying to get the data from the array into the cards.
+**Link** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/react-props-practice
+
+
