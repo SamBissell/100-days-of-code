@@ -193,5 +193,9 @@ Files: see Express-Weather repo
 **Today's Progress** mapping data to components 
 **Thoughts:** feeling good about things, react is taking more shape
 
+### Day 31: 7/30/21
+
+**Today's Progress** ternary operators and conditional rendering 
+**Thoughts:** passing props between components was difficult.
 
 
