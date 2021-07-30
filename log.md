@@ -188,4 +188,10 @@ Files: see Express-Weather repo
 **Thoughts:** yup, kind of had a stick a sec trying to get the data from the array into the cards.
 **Link** https://github.com/SamBissell/CSS-and-JS-Exercises/tree/main/react-props-practice
 
+### Day 30: 7/29/21
+
+**Today's Progress** mapping data to components 
+**Thoughts:** feeling good about things, react is taking more shape
+
+
 
