@@ -199,3 +199,9 @@ Files: see Express-Weather repo
 **Thoughts:** passing props between components was difficult.
 
 
+### Day 32: 7/31/21
+
+**Today's Progress** useHook State
+**Thoughts:** It makes sense,but didn't feel the most straightforward at first. Philosophically it's like an abstraction for the purpose of limiting runaway abstraction.
+
+
