@@ -204,4 +204,7 @@ Files: see Express-Weather repo
 **Today's Progress** useHook State
 **Thoughts:** It makes sense,but didn't feel the most straightforward at first. Philosophically it's like an abstraction for the purpose of limiting runaway abstraction.
 
+### Day 33: 8/1/21
 
+**Today's Progress** Destructuring Objects and Arrays
+**Thoughts:** tired, but it makes sense.
