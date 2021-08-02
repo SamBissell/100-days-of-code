@@ -208,3 +208,10 @@ Files: see Express-Weather repo
 
 **Today's Progress** Destructuring Objects and Arrays
 **Thoughts:** tired, but it makes sense.
+
+
+### Day 34: 8/2/21
+
+**Today's Progress** destructuring, events and forms in react.
+**Thoughts:** making more sense, been using code sandbox.
+**Link** https://codesandbox.io/s/react-forms-forked-huhss?file=/src/components/App.jsx
