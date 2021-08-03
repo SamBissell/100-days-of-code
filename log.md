@@ -215,3 +215,9 @@ Files: see Express-Weather repo
 **Today's Progress** destructuring, events and forms in react.
 **Thoughts:** making more sense, been using code sandbox.
 **Link** https://codesandbox.io/s/react-forms-forked-huhss?file=/src/components/App.jsx
+
+### Day 35: 8/3/21
+
+**Today's Progress** Changing Complex State in React.
+**Thoughts:** Shheeeeesh... Actually pretty elegant.
+**Link** https://codesandbox.io/s/changing-complex-state-forked-l7e49?file=/src/components/App.jsx
