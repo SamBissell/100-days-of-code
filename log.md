@@ -228,3 +228,10 @@ Files: see Express-Weather repo
 **Today's Progress** Managing tree components.
 **Thoughts:** Functinal programming, i.e. nested functions can get a little confusing
 https://codesandbox.io/s/managing-a-component-tree-forked-qikwm?file=/src/components/App.jsx
+
+
+### Day 37: 8/5/21
+
+**Today's Progress** Going back and making a eract app from scratch.
+**Thoughts:** Definitely have a lot of brushing up to do, but i'm glad I'm doing it.
+https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.jsx:625-632
