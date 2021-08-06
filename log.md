@@ -235,3 +235,9 @@ https://codesandbox.io/s/managing-a-component-tree-forked-qikwm?file=/src/compon
 **Today's Progress** Going back and making a eract app from scratch.
 **Thoughts:** Definitely have a lot of brushing up to do, but i'm glad I'm doing it.
 https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.jsx:625-632
+
+### Day 38: 8/6/21
+
+**Today's Progress** Mapped array, but need to map a nested array into option inputs.
+**Thoughts:** rough going, but it's progress. I'll get it soon, but just not today I guess.
+https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.jsx:625-632
