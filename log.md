@@ -241,3 +241,9 @@ https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.js
 **Today's Progress** Mapped array, but need to map a nested array into option inputs.
 **Thoughts:** rough going, but it's progress. I'll get it soon, but just not today I guess.
 https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.jsx:625-632
+
+### Day 39: 8/7/21
+
+**Today's Progress** more trying to map nested objects to options, couldnt get it.
+**Thoughts:** Discouraging, but I think I've just gotta find a simpler way of accomplishing my goal.
+https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.jsx:625-632
