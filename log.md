@@ -247,3 +247,9 @@ https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.js
 **Today's Progress** more trying to map nested objects to options, couldnt get it.
 **Thoughts:** Discouraging, but I think I've just gotta find a simpler way of accomplishing my goal.
 https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.jsx:625-632
+
+### Day 40: 8/8/21
+
+**Today's Progress** same project, having trouble with setState and the array I'm storing state in.
+**Thoughts:** Gonna keep pushing and finish the project, even if it doesnt have all the features id originally hoped for.
+https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.jsx:625-632
