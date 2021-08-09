@@ -253,3 +253,10 @@ https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.js
 **Today's Progress** same project, having trouble with setState and the array I'm storing state in.
 **Thoughts:** Gonna keep pushing and finish the project, even if it doesnt have all the features id originally hoped for.
 https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.jsx:625-632
+
+
+### Day 41: 8/9/21
+
+**Today's Progress** Adjusted the styling on project. Have to add a state for expanding elements.
+**Thoughts:** Not sure if I should push further on react or go back an incorporate backend stuff on a vanilla js project or something.
+https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.jsx:625-632
