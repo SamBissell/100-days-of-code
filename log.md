@@ -260,3 +260,8 @@ https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.js
 **Today's Progress** Adjusted the styling on project. Have to add a state for expanding elements.
 **Thoughts:** Not sure if I should push further on react or go back an incorporate backend stuff on a vanilla js project or something.
 https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.jsx:625-632
+
+### Days 42 & 43: 8/10-11/21
+
+**Today's Progress** Full stack app from https://www.youtube.com/watch?v=1NrHkjlWVhM. Didn't get edit functionality for some reason.
+**Thoughts:** ugh, gotta struggle to find out where I went wrong. I'd like to use this as a template for a new version the random adventure generator above.
