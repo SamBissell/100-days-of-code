@@ -265,3 +265,13 @@ https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.js
 
 **Today's Progress** Full stack app from https://www.youtube.com/watch?v=1NrHkjlWVhM. Didn't get edit functionality for some reason.
 **Thoughts:** ugh, gotta struggle to find out where I went wrong. I'd like to use this as a template for a new version the random adventure generator above.
+
+### Days 44: 8/12/21
+
+**Today's Progress** Getting comfortable with react, analyzing the structure of 42/43 project
+**Thoughts:** starting to gel i guess...
+
+### Days 45: 8/13/21
+
+**Today's Progress** pseudo code for a full stack version of the instant adventure app
+**Thoughts:** gotta get started somehow, and I want to know what im doing beofre i dive in and waste a bunch of time screwing things up.
