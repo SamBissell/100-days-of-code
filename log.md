@@ -275,3 +275,9 @@ https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.js
 
 **Today's Progress** pseudo code for a full stack version of the instant adventure app
 **Thoughts:** gotta get started somehow, and I want to know what im doing beofre i dive in and waste a bunch of time screwing things up.
+
+
+### Days 46: 8/14/21
+
+**Today's Progress** starting full stack version of adventure app. server in express from scratch, made a db in mongo.
+**Thoughts:** feeling good
