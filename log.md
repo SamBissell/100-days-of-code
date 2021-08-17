@@ -281,3 +281,13 @@ https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.js
 
 **Today's Progress** starting full stack version of adventure app. server in express from scratch, made a db in mongo.
 **Thoughts:** feeling good
+
+### Days 47: 8/15/21
+
+**Today's Progress** read a lot of documentation on express&mongodb 
+**Thoughts:** good
+
+### Days 48: 8/16/21
+
+**Today's Progress** mapped data from mongo to form, need to reevaluate data structure of db to have all the data i need. 
+**Thoughts:** good
