@@ -291,3 +291,9 @@ https://codesandbox.io/s/agitated-hertz-ljy57?file=/src/components/AdvElement.js
 
 **Today's Progress** mapped data from mongo to form, need to reevaluate data structure of db to have all the data i need. 
 **Thoughts:** good
+
+
+### Days 49: 8/17/21
+
+**Today's Progress** revised data structure of db to include an array of strings, struggled getting that right. Then struggled getting the array to be defined in express. Think I found a stack overflow that will help. 
+**Thoughts:** good, was frustrated, but not in a bad way, really got into getting after the problem.
