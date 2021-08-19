@@ -300,3 +300,8 @@ structure of my record:
 { "category": "Environments", "options": ["Forest", "Mountain"] }
 
 **Thoughts:** good, was frustrated, but not in a bad way, really got into getting after the problem.
+
+### Days 50: 8/19/21
+
+**Today's Progress** Got data to render yesterday, Read up on using react with express today, looked at new projects to do.
+**Thoughts:** I feel like i need an authentication feature to make a true full stack project
