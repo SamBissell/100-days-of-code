@@ -305,3 +305,8 @@ structure of my record:
 
 **Today's Progress** Got data to render yesterday, Read up on using react with express today, looked at new projects to do.
 **Thoughts:** I feel like i need an authentication feature to make a true full stack project
+
+### Days 51: 8/20/21
+
+**Today's Progress**outline for netflix clone
+**Thoughts:** feels like this will definitely test my meager react skills
