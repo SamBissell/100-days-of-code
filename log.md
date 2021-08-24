@@ -310,3 +310,9 @@ structure of my record:
 
 **Today's Progress**outline for netflix clone
 **Thoughts:** feels like this will definitely test my meager react skills
+
+### Days 52: 8/23/21
+
+**Today's Progress** authentication
+**Thoughts:** yeah
+https://github.com/SamBissell/Secrets
