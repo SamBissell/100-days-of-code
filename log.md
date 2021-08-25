@@ -316,3 +316,9 @@ structure of my record:
 **Today's Progress** authentication
 **Thoughts:** yeah
 https://github.com/SamBissell/Secrets
+
+### Days 53: 8/25/21
+
+**Today's Progress** authentication, lv3 salting. Express stuff, very confusing
+**Thoughts:** ...
+https://github.com/SamBissell/Secrets
