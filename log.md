@@ -328,3 +328,7 @@ https://github.com/SamBissell/Secrets
 **Today's Progress** decided i have to do portfolio projects, making netflix clone
 **Thoughts:** not bad, basically learning react state and effect with this. will apply to other stuff later.
 
+### Days 55: 8/27/21
+
+**Today's Progress** made header for netflix clone
+**Thoughts:** Want to figure out how to make the data query for header background conditional because some titles dont have that file. Only choose it if it does have that file. Maybe the step after that is to incorporate the user login?
