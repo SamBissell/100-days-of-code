@@ -322,3 +322,9 @@ https://github.com/SamBissell/Secrets
 **Today's Progress** authentication, lv3 salting. Express stuff, very confusing
 **Thoughts:** ...
 https://github.com/SamBissell/Secrets
+
+### Days 54: 8/26/21
+
+**Today's Progress** decided i have to do portfolio projects, making netflix clone
+**Thoughts:** not bad, basically learning react state and effect with this. will apply to other stuff later.
+
