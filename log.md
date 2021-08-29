@@ -332,3 +332,8 @@ https://github.com/SamBissell/Secrets
 
 **Today's Progress** made header for netflix clone
 **Thoughts:** Want to figure out how to make the data query for header background conditional because some titles dont have that file. Only choose it if it does have that file. Maybe the step after that is to incorporate the user login?
+
+### Days 56: 8/28/21
+
+**Today's Progress** navbar
+**Thoughts:** need to get better at state and effect syntax. For some reason the header bg image isnt showing, but a working src url is present in the markup.
