@@ -337,3 +337,15 @@ https://github.com/SamBissell/Secrets
 
 **Today's Progress** navbar
 **Thoughts:** need to get better at state and effect syntax. For some reason the header bg image isnt showing, but a working src url is present in the markup.
+
+### Days 57: 8/29/21
+
+**Today's Progress** Learned the basics of svelte.
+**Thoughts:** It’s interesting to have the script, style and html all in the same file, kind of old school, but allows for a really straightforward use of javascript.
+
+### Days 58: 8/30/21
+
+**Today's Progress** Revisited a Mongo/Express/Ejs project. Experimented with Svelte.
+**Thoughts:**  I’ve accumulated a lot of knowledge in the past 59 days, but putting it into practice is difficult.
+
+
