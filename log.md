@@ -349,3 +349,8 @@ https://github.com/SamBissell/Secrets
 **Thoughts:**  I’ve accumulated a lot of knowledge in the past 59 days, but putting it into practice is difficult.
 
 
+### Days 59: 9/1/21
+
+**Today's Progress** Converted a landing page to react. used react-reveal package
+**Thoughts:**  feels good to make something concrete in react. Next I'm going to really get behind the passing and manipulating data in react, i think a shopping cart would be good.
+
