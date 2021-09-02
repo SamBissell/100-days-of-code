@@ -354,3 +354,8 @@ https://github.com/SamBissell/Secrets
 **Today's Progress** Converted a landing page to react. used react-reveal package
 **Thoughts:**  feels good to make something concrete in react. Next I'm going to really get behind the passing and manipulating data in react, i think a shopping cart would be good.
 
+### Days 60: 9/2/21
+
+**Today's Progress** recode weather app for react, learned a lot about forms, havent gotten to the api yet.
+**Thoughts:**  yeah, feels good, just have to hash this out. Going to thave to think about how the data from the API call is going to be used in relation to whatever is getting stored in an array. Between a weather app, an agency website, a note taking app, and the Farm homepage, I think I'll have a good front end portfolio. Then the instant adventure app should express backend once that's done. The real job will be marketing myself to jobs properly.
+
