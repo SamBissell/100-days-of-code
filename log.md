@@ -363,3 +363,9 @@ https://github.com/SamBissell/Secrets
 
 **Today's Progress** messed around with particle.js in react
 **Thoughts:** 
+
+### Days 62 (65 according to twitter): 9/8/21
+
+**Today's Progress** landing page for NFT clothing site
+**Thoughts:** forms were weird 
+**link:** https://github.com/SamBissell/dripChain
