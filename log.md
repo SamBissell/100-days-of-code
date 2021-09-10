@@ -369,3 +369,9 @@ https://github.com/SamBissell/Secrets
 **Today's Progress** landing page for NFT clothing site
 **Thoughts:** forms were weird 
 **link:** https://github.com/SamBissell/dripChain
+
+### Days 64 (66 according to twitter): 9/9/21
+
+**Today's Progress** styling of the drip chain, grid, button forms. new iteration of the random adventure, researched spread.
+**Thoughts:** got convoluted with the adventure thing at first, as well as the grid. 
+**link:** need to push drip chain to git.
