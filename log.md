@@ -375,3 +375,9 @@ https://github.com/SamBissell/Secrets
 **Today's Progress** styling of the drip chain, grid, button forms. new iteration of the random adventure, researched spread.
 **Thoughts:** got convoluted with the adventure thing at first, as well as the grid. 
 **link:** need to push drip chain to git.
+
+### Days 65 (67 according to twitter): 9/10/21
+
+**Today's Progress** adventure sentence structuring
+**Thoughts:** some big if/else if blocks, need to make ternary operators?
+
