@@ -381,3 +381,9 @@ https://github.com/SamBissell/Secrets
 **Today's Progress** adventure sentence structuring
 **Thoughts:** some big if/else if blocks, need to make ternary operators?
 
+### Days 65 (67 according to twitter): 9/11/21
+
+**Today's Progress** reading on making a mern app, folder structures, boilerplates etc
+**Thoughts:** ...
+
+
