@@ -386,4 +386,26 @@ https://github.com/SamBissell/Secrets
 **Today's Progress** reading on making a mern app, folder structures, boilerplates etc
 **Thoughts:** ...
 
+### Days 66 (68 according to twitter): 9/12/21
+
+**Today's Progress** readingairbnb style guide
+**Thoughts:** ...
+
+### Days 67 (69 according to twitter): 9/14/21
+
+**Today's Progress** rpersonal website
+**Thoughts:** ...
+
+### Days 68 (70 according to twitter): 9/15/21
+
+**Today's Progress** personal website, animations with css/js
+**Thoughts:** ...
+
+### Days 69 (71 according to twitter): 9/16/21
+
+**Today's Progress** personal website, sending email with php, wack
+**Thoughts:** ...
+
+
+
 
