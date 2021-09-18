@@ -406,6 +406,11 @@ https://github.com/SamBissell/Secrets
 **Today's Progress** personal website, sending email with php, wack
 **Thoughts:** ...
 
+### Dayswe're just going to call this 73 9/17/21
+
+**Today's Progress** randomly generated squares into a parallax container.
+**Thoughts:** it was sick. want to do one that generates random things that move around randomly, like little microbes under a microscope. that'd be a siiiick backgrond for a portfolio site.
+
 
 
 
