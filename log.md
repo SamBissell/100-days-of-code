@@ -411,10 +411,14 @@ https://github.com/SamBissell/Secrets
 **Today's Progress** randomly generated squares into a parallax container.
 **Thoughts:** it was sick. want to do one that generates random things that move around randomly, like little microbes under a microscope. that'd be a siiiick backgrond for a portfolio site.
 
-### Dayswe're just going to call this 73 9/17/21
+### Dayswe're just going to call this 74 9/18/21
 
 **Today's Progress** randomly generated x or o's with random rotation.
 **Thoughts:** it was sick. very relax. want to do one that generates random things that move around randomly, like little microbes under a microscope. that'd be a siiiick backgrond for a portfolio site. ----- it's pretty ugly right now, idk how dope it'd be fore a background, but it is cool.
 
 
+### Dayswe're just going to call this 75 9/17/21
+
+**Today's Progress** randomly generated x or o's with random rotation.
+**Thoughts:** it was sick. very relax. want to do one that generates random things that move around randomly, like little microbes under a microscope. that'd be a siiiick backgrond for a portfolio site. ----- it's pretty ugly right now, idk how dope it'd be fore a background, but it is cool.
 
