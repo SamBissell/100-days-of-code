@@ -422,3 +422,8 @@ https://github.com/SamBissell/Secrets
 **Today's Progress** randomly generated x or o's with random rotation.
 **Thoughts:** it was sick. very relax. want to do one that generates random things that move around randomly, like little microbes under a microscope. that'd be a siiiick backgrond for a portfolio site. ----- it's pretty ugly right now, idk how dope it'd be fore a background, but it is cool.
 
+### Day 76 9/20/21
+
+**Today's Progress** going back to react weather app, got api to bring in data, need to access it now.
+**Thoughts:** weather apps are dumb
+
