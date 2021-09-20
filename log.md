@@ -419,8 +419,8 @@ https://github.com/SamBissell/Secrets
 
 ### Day 75 9/19/21
 
-**Today's Progress** randomly generated x or o's with random rotation.
-**Thoughts:** it was sick. very relax. want to do one that generates random things that move around randomly, like little microbes under a microscope. that'd be a siiiick backgrond for a portfolio site. ----- it's pretty ugly right now, idk how dope it'd be fore a background, but it is cool.
+**Today's Progress** fade in elements on portfoio sire.
+**Thoughts:** makes it look much more professional
 
 ### Day 76 9/20/21
 
