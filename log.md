@@ -427,3 +427,21 @@ https://github.com/SamBissell/Secrets
 **Today's Progress** going back to react weather app, got api to bring in data, need to access it now.
 **Thoughts:** weather apps are dumb
 
+### Day 77 
+
+using axios
+
+
+### Day 78/79  
+
+mern stack reverse engineering
+
+### Day 80
+
+routing
+
+### 81
+ can’t get routes to save to mongo
+
+### 82
+ still can’t get it to save, but i’ll get it
