@@ -445,3 +445,7 @@ routing
 
 ### 82
  still can’t get it to save, but i’ll get it
+ 
+ 
+### 83
+ more bruh moments with mongo, tomorrow i'll do someting easier to cool off
