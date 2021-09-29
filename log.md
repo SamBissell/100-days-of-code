@@ -449,3 +449,8 @@ routing
  
 ### 83
  more bruh moments with mongo, tomorrow i'll do someting easier to cool off
+ 
+ ### 84/85 - ending 9/29
+ react and express documentation, having lots of trouble with routing. I'm better with the basics of getting a serer down, but getting it to write to mongo is terrible, and i always seem to run into trouble with routing.
+ 
+
