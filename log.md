@@ -453,4 +453,7 @@ routing
  ### 84/85 - ending 9/29
  react and express documentation, having lots of trouble with routing. I'm better with the basics of getting a serer down, but getting it to write to mongo is terrible, and i always seem to run into trouble with routing.
  
+  ### 86 - ending 9/30
+ got express and mongo to work, started on the august website.
+ 
 
