@@ -453,7 +453,10 @@ routing
  ### 84/85 - ending 9/29
  react and express documentation, having lots of trouble with routing. I'm better with the basics of getting a serer down, but getting it to write to mongo is terrible, and i always seem to run into trouble with routing.
  
-  ### 86 - ending 9/30
+  ### 86 -  9/30
  got express and mongo to work, started on the august website.
+ 
+   ### 87 - 10/4
+   really just tried to alter my existing mern setup, with little to no success. This is a good opportunity to build these connections from the ground up and really get into it.
  
 
