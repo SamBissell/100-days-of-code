@@ -459,4 +459,6 @@ routing
    ### 87 - 10/4
    really just tried to alter my existing mern setup, with little to no success. This is a good opportunity to build these connections from the ground up and really get into it.
  
+    ### 88 - 10/6
+    worked on restyling mern app
 
