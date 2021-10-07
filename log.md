@@ -461,4 +461,7 @@ routing
  
     ### 88 - 10/6
     worked on restyling mern app
+    
+ ### 89 - 10/7
+   Got new task item to map, but not from a separate component. Feel like my code is kind of messy, and I'd like it to be cleaner / more manageable...
 
