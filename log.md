@@ -465,3 +465,5 @@ routing
  ### 89 - 10/7
    Got new task item to map, but not from a separate component. Feel like my code is kind of messy, and I'd like it to be cleaner / more manageable...
 
+ ### 90 - 10/9
+   Built really basic mern from scratch because I'm still having trouble with getting data into react
