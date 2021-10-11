@@ -465,5 +465,5 @@ routing
  ### 89 - 10/7
    Got new task item to map, but not from a separate component. Feel like my code is kind of messy, and I'd like it to be cleaner / more manageable...
 
- ### 90 - 10/9
-   Built really basic mern from scratch because I'm still having trouble with getting data into react
+ ### 91 - 10/11
+ Spent the day auditing links on a samll business's website and designing a new page for part of their site. It's a company I've worked for before and they want to keep the mid 2000s aesthetic of their site, so while I am grateful for the opportunity to get paid to work on someone's website, it's really hard to feel proud of maintaining something so archaic.
