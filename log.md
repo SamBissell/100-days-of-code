@@ -480,3 +480,6 @@ routing
 
  ### 95  - 97 - 10/20
   folk rocker website, did a little on the adventure generator lite. looks pretty decent
+  
+   ### 98   10/21
+  same as before
